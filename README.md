@@ -14,7 +14,7 @@ Projeyi clonledaıktan sonra Visual Studio Code programında açınız.
 Linux için:
 
 ```
-cd kodluyoruzilkrepo
+cd Metal-Scrap-Dealer-Website-Bootstrap
 code .
 ```
 
