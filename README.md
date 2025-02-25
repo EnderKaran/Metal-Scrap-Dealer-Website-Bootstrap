@@ -1,25 +1,33 @@
-# Metal Scrap Dealer Website
-Bu repo [Ender](https://www.instagram.com/ender.7895/) tarafından yapılmıştır. Öneriliriniz için instgramdan yazabilirsiniz
+# Metal Geri Dönüşüm Web Sitesi (Bootstrap)
 
-## Installation
-Github hesabım. (https://github.com/EnderKaran/Metal-Scrap-Dealer-Website-Bootstrap.git)
+Bu proje, metal geri dönüşümü sektöründe faaliyet gösteren firmalar için modern web teknolojileri kullanılarak geliştirilmiş bir web sitesi şablonudur.
 
-```git
+## Kurulum
+
+### Depoyu Klonlayın:
+```bash
 git clone https://github.com/EnderKaran/Metal-Scrap-Dealer-Website-Bootstrap.git
-```
 
-## Usage
-Projeyi clonledaıktan sonra Visual Studio Code programında açınız.
+Dizin İçine Girin:
 
-Linux için:
-
-```
 cd Metal-Scrap-Dealer-Website-Bootstrap
-code .
 ```
+## Kullanılan Teknolojiler
 
-## Contributing
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce değiştirmek istediğinizi tartışmak için bir konu açınız.
+1. **HTML5** – Sitenin iskeletini oluşturmak için kullanılmıştır.  
+2. **CSS3** – Stil ve düzenleme için kullanılmıştır.  
+3. **Bootstrap 4** – Hızlı ve duyarlı bir web sitesi geliştirmek için kullanılan popüler bir CSS framework'üdür.  
+4. **jQuery (v3.3.1)** – JavaScript kütüphanesi. DOM manipülasyonu, animasyonlar ve AJAX işlemleri için kullanılır.  
+5. **Popper.js** – Bootstrap'ın bazı bileşenlerinin (açılır menüler gibi) doğru konumlandırılması için gereklidir.  
+6. **Font Awesome (v6.0.0-beta3)** – İkonlar için kullanılmıştır.  
+7. **Google Fonts (Quicksand)** – Özel bir yazı tipi kullanılmıştır.  
+8. **ScrollReveal** – Sayfa kaydırıldığında öğelerin animasyonlu olarak görünmesini sağlayan bir kütüphanedir. [ScrollReveal](https://scrollrevealjs.org/)  
 
-## License
-[MIT](https://choosealicense.com)
+
+### Lisans
+Bu proje MIT Lisansı altında lisanslanmıştır. Bu, projeyi ticari veya kişisel amaçlarla kullanmak, değiştirmek ve dağıtmakta özgür olduğunuz anlamına gelir.
+
+### İletişim
+Proje ile ilgili sorularınız, önerileriniz veya geri bildirimleriniz için GitHub Issues sayfasını kullanabilirsiniz.
+
+
